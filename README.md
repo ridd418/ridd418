@@ -4,7 +4,7 @@ I build things by breaking them down into systems.
 
 > TL;DR — Fundamentals-first JavaScript developer focused on modular systems, and building real instincts through refactoring and experimentation.
 
-Right now that mostly means **modular JavaScript projects**, but the thing I’m actually obsessed with is **architecture** — how pieces talk to each other, how state flows, and how complexity stays contained instead of exploding.
+Right now that mostly means modular JavaScript projects, but what I’m actually obsessed with is architecture — how pieces talk to each other, how state flows, and how complexity stays contained instead of exploding.
 
 I’m still early in the craft. I’m not pretending otherwise.
 
@@ -41,7 +41,7 @@ Right now, my focus is:
 - ES Modules, import maps, minimal tooling
 - Refactoring old projects to reflect what I *now* understand
 - Writing docs that explain *why* things are built the way they are  
-  _(okay, nobody likes docs — but it needs to be done, for the people who are going to read my code base, including me. That's reason enough!)_
+  _(okay, nobody likes docs — but it needs to be done, for the people who’ll read my codebase, including me. That’s reason enough.)_
 
 I like code that:
 
@@ -56,6 +56,8 @@ I’m not anti-framework — just opinionated about understanding first.
 ## 📦 What to look at (start here)
 
 If you landed here to judge my work, don’t scroll randomly.
+
+Each project is small on purpose — the architecture is the point.
 
 Start with these (in order):
 
@@ -91,7 +93,7 @@ If you care about *thinking*, not just output — read those.
 - **Breezium Dashboard** — [Repo](https://github.com/ridd418/breezium-dashboard) _(currently building)_  
   An opinionated productivity dashboard focused on reducing clutter and encouraging focus through simple psychological triggers.
 
-  This is where I’m experimenting more openly and letting the architecture evolve in public instead of waiting for a “perfect” version.
+  This is where I’m experimenting more openly and letting the architecture evolve in public instead of waiting for a “perfect” version behind closed doors.
 
 ---
 
