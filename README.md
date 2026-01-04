@@ -150,6 +150,7 @@ I’m open to **small freelance gigs**, collaborations, or just simple conversat
 
 - **Twitter / X**: _[@ridd418](https://x.com/ridd418)_ — for private DMs
 - **GitHub Discussions**: preferred for project-related thoughts
+- **Email**: _[connect.emphatic779@simplelogin.com](mailto:connect.emphatic779@simplelogin.com)_ — if you must
 
 No LinkedIn. No corporate theater.
 
