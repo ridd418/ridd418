@@ -146,7 +146,7 @@ I’m open to **small freelance gigs**, collaborations, or just simple conversat
 
 ## 📬 How to reach me
 
-- **Twitter / X**: _[@ridd418](https://x.com/ridd418)_ — for privete DMs
+- **Twitter / X**: _[@ridd418](https://x.com/ridd418)_ — for private DMs
 - **GitHub Discussions**: preferred for project-related thoughts
 
 No LinkedIn. No corporate theater.
